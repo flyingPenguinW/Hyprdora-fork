@@ -1,35 +1,21 @@
 <div align = center>
 
-<img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg" width="750" height="300" alt="banner">
+<img src="assets/logo.png" width="400" alt="OMADORA logo">
 
 <br>
 
-[![Badge Workflow]][Workflow]
 [![Badge License]][License] 
-![Badge Language] 
-[![Badge Pull Requests]][Pull Requests] 
-[![Badge Issues]][Issues] 
-![Badge Hi Mom]<br>
+![Badge Language]<br>
 
 <br>
 
-Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+Custom fork of Hyprland for OMADORA.
 
-It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins,
-easy IPC, much more QoL stuff than other compositors and more...
+A 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 <br>
 <br>
 
 ---
-
-**[<kbd> <br> Install <br> </kbd>][Install]** 
-**[<kbd> <br> Quick Start <br> </kbd>][Quick Start]** 
-**[<kbd> <br> Configure <br> </kbd>][Configure]** 
-**[<kbd> <br> Contribute <br> </kbd>][Contribute]**
-
----
-
-<br>
 
 </div>
 
@@ -100,18 +86,6 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 <!----------------------------------------------------------------------------->
 
-[Configure]: https://wiki.hypr.land/Configuring/
-[Stars]: https://starchart.cc/hyprwm/Hyprland
-[Hypr]: https://github.com/hyprwm/Hypr
-
-[Pull Requests]: https://github.com/hyprwm/Hyprland/pulls
-[Issues]: https://github.com/hyprwm/Hyprland/issues
-[Todo]: https://github.com/hyprwm/Hyprland/projects?type=beta
-
-[Contribute]: https://wiki.hypr.land/Contributing-and-Debugging/
-[Install]: https://wiki.hypr.land/Getting-Started/Installation/
-[Quick Start]: https://wiki.hypr.land/Getting-Started/Master-Tutorial/
-[Workflow]: https://github.com/hyprwm/Hyprland/actions/workflows/ci.yaml
 [License]: LICENSE
 
 
@@ -137,7 +111,7 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 [Badge Issues]: https://img.shields.io/github/issues/hyprwm/Hyprland
 [Badge Pull Requests]: https://img.shields.io/github/issues-pr/hyprwm/Hyprland
-[Badge Language]: https://img.shields.io/github/languages/top/hyprwm/Hyprland
-[Badge License]: https://img.shields.io/github/license/hyprwm/Hyprland
+[Badge Language]: https://img.shields.io/github/languages/top/flyingPenguinW/Hyprdora-fork
+[Badge License]: https://img.shields.io/github/license/flyingPenguinW/Hyprdora-fork
 [Badge Lines]: https://img.shields.io/tokei/lines/github/hyprwm/Hyprland
 [Badge Hi Mom]: https://img.shields.io/badge/Hi-mom!-ff69b4
